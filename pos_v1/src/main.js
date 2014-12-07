@@ -14,3 +14,4 @@ function printInventory(inputs) {
         "**********************";
     console.log(inventory);
 }
+
